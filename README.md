@@ -1,3 +1,3 @@
 # gradiend-web
  
-Hi! Welcome to Gradiend.com's GitHub Repo. :)
+https://nickazakov.github.io/gradiend-web/home
