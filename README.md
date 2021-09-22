@@ -1,3 +1,3 @@
 # gradiend-web
  
-https://nickazakov.github.io/gradiend-web/home
+https://nickazakov.github.io/gradiend-web
